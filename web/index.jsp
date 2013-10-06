@@ -13,7 +13,7 @@
     </head>
     <body>
         <h1>¡Hola Mundo!</h1>
-        i: float i = 0;
+        float i = 0;
         <h3>Autor: Sergio Martín Tárraga</h3>
     </body>
 </html>
