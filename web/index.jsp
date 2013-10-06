@@ -13,7 +13,7 @@
     </head>
     <body>
         <h1>¡Hola Mundo!</h1>
-        <p>Como indica el punto dos, en la rama r1 hago cambios</p>
+        i: float i = 0;
         <h3>Autor: Sergio Martín Tárraga</h3>
     </body>
 </html>
